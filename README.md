@@ -13,3 +13,5 @@ The scripts are used in another project and may be useful to somebody.
 | Tagesschau | https://www.tagesschau.de | tagesschau.php |
 | Science Busters | https://sciencebusters.at/podcast/ | sciencebusters.php |
 | Beats & Bones | https://www.museumfuernaturkunde.berlin/de/museum/fuernatur-digital/beats-bones-der-podcast-aus-dem-museum-fuer-naturkunde-berlin | naturkundemuseum.php | Lage der Nation | https://www.lagedernation.org | ldn.php | 
+
+# In case any author or hosting platform rule forbids scraping the url, just text me and the specific script will be removed.
